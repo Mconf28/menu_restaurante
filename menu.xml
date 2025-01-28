@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item>
+    <name>Plato 1</name>
+    <price>10</price>
+    <image>https://raw.githubusercontent.com/tu-usuario/menu_restaurante/main/assets/images/plato1.jpg</image>
+  </item>
+  <item>
+    <name>Plato 2</name>
+    <price>8</price>
+    <image>https://raw.githubusercontent.com/tu-usuario/menu_restaurante/main/assets/images/plato2.jpg</image>
+  </item>
+  <item>
+    <name>Plato 3</name>
+    <price>7</price>
+    <image>https://raw.githubusercontent.com/tu-usuario/menu_restaurante/main/assets/images/plato3.jpg</image>
+  </item>
+  <item>
+    <name>Plato 4</name>
+    <price>4</price>
+    <image>https://raw.githubusercontent.com/tu-usuario/menu_restaurante/main/assets/images/plato4.jpg</image>
+  </item>
+  <item>
+    <name>Plato 5</name>
+    <price>5</price>
+    <image>https://raw.githubusercontent.com/tu-usuario/menu_restaurante/main/assets/images/plato5.jpg</image>
+  </item>
+  <item>
+    <name>Plato 6</name>
+    <price>8</price>
+    <image>https://raw.githubusercontent.com/tu-usuario/menu_restaurante/main/assets/images/plato6.jpg</image>
+  </item>
+</menu>
